@@ -1,4 +1,5 @@
-#include <stdio.h>
+
+//WACP TO FIND THE SECOND MAX AND SECOND MIN OF A MATRIX USING POINTER WITHOUT SORTING THE ELEMENTS.#include <stdio.h>
 
 int main() {
     int a[2][2] = {
